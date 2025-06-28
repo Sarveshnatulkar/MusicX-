@@ -1,10 +1,8 @@
-# 🎵 Spotify Landing Page Clone
+# 🎵 MusicX Landing Page (Inspired by Spotify)
 
-This is a **Spotify landing page clone** built using only **HTML and CSS**.  
-The project is part of my frontend development learning journey, aimed at practicing layout, styling, and responsive design.
+This is a music landing page clone built using only **HTML and CSS** — designed as part of my frontend learning journey to practice modern layouts, Flexbox, and styling.
 
 ---
-
 
 ## 🛠️ Tech Stack
 
