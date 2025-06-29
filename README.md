@@ -23,6 +23,11 @@ This landing page project is inspired by the design of Spotify, created purely f
 - Hosting a static website using GitHub Pages
 
 ---
+## Live website
+
+👉 [Live Demo]( https://sarveshnatulkar.github.io/MusicX-/) 
+
+---
 
 ## 🙏 Credits
 
